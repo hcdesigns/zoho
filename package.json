@@ -1,5 +1,5 @@
 {
-  "name": "hcdesigns-zoho",
+  "name": "zoho",
   "version": "1.0.0",
   "description": "Node.js client library for Zoho",
   "main": "./lib/index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hcdesigns/zoho"
+    "url": "https://github.com/4yopping/zoho"
   },
   "keywords": [
     "zoho",
